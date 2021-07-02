@@ -17,6 +17,7 @@
 
 
 ## Agenda
+
 DAY 1,2 - scRNA-Seq course
 
 DAY 3 - Conda, Seurat
@@ -33,7 +34,7 @@ DAY 6 - Exams.
 
 
 ## Questions
-If you have any questions, feel free to ask in the github issues.
+This is a self-study training and my role is a TA. If you have any questions, feel free to ask in the github issues.
 
 ## Recommended materials for further reading
 
