@@ -26,7 +26,7 @@ DAY 3 - Conda, Seurat
 - [Introduction to scRNA-seq integration](https://satijalab.org/seurat/articles/integration_introduction.html)
 - [multimodal data](https://satijalab.org/seurat/articles/multimodal_vignette.html)
 
-DAY 4 - Q&A from 10X genomics, CeleScope installation and test run(Test data [here](https://gitee.com/singleron-rd/celescope_tests) )
+DAY 4 - Q&A from 10X genomics, CeleScope installation and test run(Test data [here](https://github.com/singleron-RD/celescope_test_script) )
 
 DAY 5 - [Exercises](https://scrnaseq-course.cog.sanger.ac.uk/website/advanced-exercises.html). If I have time, I will add some additional exercises.
 
