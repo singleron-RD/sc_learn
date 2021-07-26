@@ -6,6 +6,7 @@
 - How to use conda to manage your package environments.
 - Basic workflows of Seurat.
 - How to use CeleScope.
+- How to use Slurm.
 
 
 ## Materials
@@ -14,7 +15,7 @@
 - [Seurat](https://satijalab.org/seurat/). Seurat is a powerful tool to analysis single-cell data(Not only scRNA-Seq data). 
 - [Q&A from 10X genomics](https://kb.10xgenomics.com/hc/en-us). I found them useful and selected some must read Q&A [here](selected_FAQ.md).
 - [CeleScope](https://github.com/singleron-RD/CeleScope/blob/master/docs/manual.md). It is our analysis pipeline.
-
+- [Slurm](https://slurm.schedmd.com/quickstart.html)
 
 ## Agenda
 
