@@ -60,3 +60,6 @@ advanced
 
 ### Statistics
 - [Biomedical Data Science](http://genomicsclass.github.io/book/)
+
+### Rust
+- [rust learn](https://www.rust-lang.org/learn)
